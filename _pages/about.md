@@ -22,6 +22,10 @@ Visual mods are fine!
 
 Note: Some mods will bundle the dependencies with them. In that case, you don't need to install what was bundled.
 
+DISCORD SERVER
+-----
+[The Spitter HQ - Announcements and events will be posted here](https://discord.gg/NVGskAhmxV)
+
 CKAN MODPACK
 -----
 
@@ -90,3 +94,6 @@ Solar
 
 [Restock](https://github.com/PorktoberRevolution/ReStocked/releases/tag/1.4.3) 1.4.3
 
+[Stockalike Station Parts Expansion Redux](https://spacedock.info/mod/1682/Stockalike%20Station%20Parts%20Expansion%20Redux) 2.0.10
+
+[Community Tech Tree](https://spacedock.info/mod/534/Community%20Tech%20Tree) 3.4.4
