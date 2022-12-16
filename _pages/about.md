@@ -30,8 +30,7 @@ CKAN MODPACK
 -----
 Installation
 
-![how to install](https://github.com/emlynlj/emlynlj.github.io/blob/master/files/ckan-install.png "How to install")
-
+             
 [download .ckan modpack](https://github.com/emlynlj/spitterserver/releases/tag/modpacks)
 
 modlist (REQUIRED MODS - YOU WON'T BE ABLE TO SEE OTHERS WITHOUT THESE)
