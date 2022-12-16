@@ -1,0 +1,187 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "spitterserver-161222-master",
+    "name": "Spitter KSP Server mods",
+    "abstract": "Mods that are required to pay on the Spitter KSP server",
+    "author": [
+        "Emlyn/Kranet"
+    ],
+    "version": "2022.12.16.08.51.29",
+    "ksp_version_min": "1.6",
+    "ksp_version_max": "1.12",
+    "license": [
+        "restricted"
+    ],
+    "depends": [
+        {
+            "name": "AirplanePlus",
+            "version": "26.5"
+        },
+        {
+            "name": "AnimatedDecouplers",
+            "version": "v1.5.0"
+        },
+        {
+            "name": "B9PartSwitch",
+            "version": "v2.20.0"
+        },
+        {
+            "name": "ClickThroughBlocker",
+            "version": "1:2.1.10.18"
+        },
+        {
+            "name": "CommunityResourcePack",
+            "version": "v112.0.1"
+        },
+        {
+            "name": "CommunityTechTree",
+            "version": "1:3.4.4"
+        },
+        {
+            "name": "DeployableEngines",
+            "version": "1.3.1"
+        },
+        {
+            "name": "DynamicBatteryStorage",
+            "version": "2:2.2.5.0"
+        },
+        {
+            "name": "EditorExtensionsRedux",
+            "version": "3.4.3.5"
+        },
+        {
+            "name": "EnvironmentalVisualEnhancements",
+            "version": "3:1.11.7.1"
+        },
+        {
+            "name": "FirespitterCore",
+            "version": "v7.17"
+        },
+        {
+            "name": "FirespitterResourcesConfig",
+            "version": "v7.17"
+        },
+        {
+            "name": "Harmony2",
+            "version": "2.2.1.0"
+        },
+        {
+            "name": "KerbalActuators",
+            "version": "v1.8.5"
+        },
+        {
+            "name": "KerbalEngineerRedux",
+            "version": "1.1.9.0"
+        },
+        {
+            "name": "LunaMultiplayer",
+            "version": "0.29.0"
+        },
+        {
+            "name": "MechJeb2",
+            "version": "2.14.2.0"
+        },
+        {
+            "name": "ModuleManager",
+            "version": "4.2.2"
+        },
+        {
+            "name": "NearFutureAeronautics",
+            "version": "2.1.1"
+        },
+        {
+            "name": "NearFutureConstruction",
+            "version": "1.3.1"
+        },
+        {
+            "name": "NearFutureElectrical",
+            "version": "1.2.3"
+        },
+        {
+            "name": "NearFutureElectrical-Core",
+            "version": "1.2.3"
+        },
+        {
+            "name": "NearFutureExploration",
+            "version": "1.1.2"
+        },
+        {
+            "name": "NearFuturePropulsion",
+            "version": "1.3.5"
+        },
+        {
+            "name": "NearFutureSolar",
+            "version": "1.3.2"
+        },
+        {
+            "name": "NearFutureSolar-Core",
+            "version": "1.3.2"
+        },
+        {
+            "name": "NewTantares",
+            "version": "v25.0"
+        },
+        {
+            "name": "PlanetShine",
+            "version": "0.2.6.6"
+        },
+        {
+            "name": "PlanetShine-Config-Default",
+            "version": "0.2.6.6"
+        },
+        {
+            "name": "RecoveryController",
+            "version": "0.0.4.1"
+        },
+        {
+            "name": "ReStock",
+            "version": "1.4.3"
+        },
+        {
+            "name": "RetractableLiftingSurface",
+            "version": "0.2.1.2"
+        },
+        {
+            "name": "ShadowWorksStockalikeSLSandMore",
+            "version": "2.0.5.1"
+        },
+        {
+            "name": "SpaceXLegs",
+            "version": "2.9.2"
+        },
+        {
+            "name": "StarshipExpansionProject",
+            "version": "v1.0.1"
+        },
+        {
+            "name": "StationPartsExpansionRedux",
+            "version": "2.0.10"
+        },
+        {
+            "name": "StockWaterfallEffects",
+            "version": "0.7.0"
+        },
+        {
+            "name": "TexturesUnlimited",
+            "version": "1.5.10.25"
+        },
+        {
+            "name": "ToolbarController",
+            "version": "1:0.1.9.9"
+        },
+        {
+            "name": "TUFX",
+            "version": "1.0.5.0"
+        },
+        {
+            "name": "TundraExploration",
+            "version": "6.1.0"
+        },
+        {
+            "name": "Waterfall",
+            "version": "0.9.0"
+        }
+    ],
+    "release_date": "2022-12-16T20:51:29.2239083+00:00",
+    "kind": "metapackage"
+}
