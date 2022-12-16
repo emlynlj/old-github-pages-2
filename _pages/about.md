@@ -76,6 +76,12 @@ modlist (REQUIRED MODS - YOU WON'T BE ABLE TO SEE OTHERS WITHOUT THESE)
 
 [Tantares Soviet Parts](https://forum.kerbalspaceprogram.com/index.php?/topic/73686-112x-tantares-stockalike-soyuz-and-mir-150872022tsyklon/) 25.0
 
+Tantares
+
+TantaresLV
+
+TantaresSP
+
 
 [Near Future:](https://forum.kerbalspaceprogram.com/index.php?/topic/155465-most-112x-near-future-technologies-august-26/) All dependencies SHOULD be bundled.
 
