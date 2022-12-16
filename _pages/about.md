@@ -9,9 +9,14 @@ redirect_from:
 ---
 
 Hey there and welcome to the yearly Spitter KSP server!
+
 Before you can get playing, please check the mods that you need to play on the server - your experience may not be good without them. 
+
 Do not install any part or gameplay mods that aren't on the list or other people won't see your craft.
+
 Visual mods are fine!
+
+
 **DO NOT USE TWEAKSCALE**
 
 
@@ -26,23 +31,23 @@ CKAN MODPACK
 modlist (REQUIRED MODS - YOU WON'T BE ABLE TO SEE OTHERS WITHOUT THESE)
 -----
 [Luna Multiplayer Client](https://github.com/LunaMultiplayer/LunaMultiplayer/releases/download/0.29.0/LunaMultiplayer-Client-Release.zip) 0.29.0
-
+|
 -> [Harmony 2 2.2.1.0](https://github.com/KSPModdingLibs/HarmonyKSP/releases/tag/2.2.1.0) (Dependency of Luna Multiplayer)
 
 
 [AirplanePlus](https://spacedock.info/mod/716/Airplane%20Plus) 26.5 (Yes it seems outdated but it works fine)
-
+|
 -> [Module Manager 4.2.2](https://ksp.sarbian.com/jenkins/job/ModuleManager/151/artifact/ModuleManager.4.0.3.dll) (Dependency of literally everything)
 
 
 [Tundra Exploration](https://github.com/damonvv/TundraExploration/releases/tag/6.1.0) 6.1.0
-
+|
 -> [Kerbal Reusability Expansion](https://spacedock.info/mod/841/Kerbal%20Reusability%20Expansion) 2.9.2 (Dependency of Tundra Exploration)
-
+|
 -> [B9 Part Switch](https://github.com/blowfishpro/B9PartSwitch/releases/tag/v2.20.0) 2.20.0 (Dependency of Tundra Exploration)
-
+|
 -> [Animated Decouplers](https://github.com/Starwaster/AnimatedDecouplers/releases/tag/v1.5.0) 1.5.0 (Dependency of Tundra Exploration)
-
+|
 -> [Retractable Lifting Surface Module](https://github.com/linuxgurugamer/RetractableLiftingSurface/releases/tag/0.2.1.2) 0.2.1.2 (Dependency of Tundra Exploration)
 
 
@@ -50,7 +55,7 @@ modlist (REQUIRED MODS - YOU WON'T BE ABLE TO SEE OTHERS WITHOUT THESE)
 
 
 [Starship Expansion Project](https://github.com/Kari1407/Starship-Expansion-Project/releases/tag/v.1.0.1) 1.0.1
-
+|
 -> [Waterfall Core](https://github.com/post-kerbin-mining-corporation/Waterfall/releases/tag/0.9.0) 0.9.0 (Dependency of Starship Expansion Project)
 
 
