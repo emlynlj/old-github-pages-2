@@ -28,7 +28,6 @@ DISCORD SERVER
 
 CKAN MODPACK
 -----
-Installation
 
              
 [download .ckan modpack](https://github.com/emlynlj/spitterserver/releases/tag/modpacks)
