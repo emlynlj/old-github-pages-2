@@ -32,6 +32,8 @@ CKAN MODPACK
              
 [download .ckan modpack](https://github.com/emlynlj/spitterserver/releases/tag/modpacks)
 
+Note: please install SOCK, TantaresSP and TantaresLV as well. I'll update the modpack asap
+
 modlist (REQUIRED MODS - YOU WON'T BE ABLE TO SEE OTHERS WITHOUT THESE)
 -----
 [Luna Multiplayer Client](https://github.com/LunaMultiplayer/LunaMultiplayer/releases/download/0.29.0/LunaMultiplayer-Client-Release.zip) 0.29.0
@@ -103,3 +105,5 @@ Solar
 [Stockalike Station Parts Expansion Redux](https://spacedock.info/mod/1682/Stockalike%20Station%20Parts%20Expansion%20Redux) 2.0.10
 
 [Community Tech Tree](https://spacedock.info/mod/534/Community%20Tech%20Tree) 3.4.4
+
+SOCK
