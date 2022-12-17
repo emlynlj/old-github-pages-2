@@ -106,4 +106,4 @@ Solar
 
 [Community Tech Tree](https://spacedock.info/mod/534/Community%20Tech%20Tree) 3.4.4
 
-SOCK
+[Shuttle Orbiter Construction Kit](https://spacedock.info/mod/2176/Shuttle%20Orbiter%20Construction%20Kit#info) 1.1.8
