@@ -30,9 +30,8 @@ CKAN MODPACK
 -----
 
              
-[download .ckan modpack](https://github.com/emlynlj/spitterserver/releases/tag/modpacks)
+[download .ckan modpack](https://github.com/emlynlj/spitterserver/releases)
 
-Note: please install SOCK, TantaresSP and TantaresLV as well. I'll update the modpack asap
 
 modlist (REQUIRED MODS - YOU WON'T BE ABLE TO SEE OTHERS WITHOUT THESE)
 -----
