@@ -12,6 +12,8 @@ THANKS FOR PLAYING
 -----
 **We broke some records with the KSP server, and we had great fun. However, it's the new year, and the event has ended. Thanks for playing!**
 
+-----
+
 Hey there and welcome to the yearly Spitter KSP server!
 
 Before you can get playing, please check the mods that you need to play on the server - your experience may not be good without them. 
